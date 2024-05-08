@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "homepage": "https://github.com/DivyanshLashkari/Translation-App",
+  "homepage": "https://DivyanshLashkari.github.io/Translation-App",
 
   "version": "1.0.0",
   "description": "",
@@ -23,7 +23,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+     "deploy": "gh-pages -d build",
   "clean": "gh-pages-clean"
   },
   "browserslist": [
